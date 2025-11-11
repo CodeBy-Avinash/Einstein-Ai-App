@@ -1,7 +1,7 @@
 # requirements.txt
 gradio
 pydantic<3
-langchain>=0.2.16,<0.3
-langchain-core>=0.2.36,<0.3
+langchain==0.2.16
+langchain-core==0.2.39
 langchain-google-genai==3.0.2
-google-ai-generativelanguage>=0.7,<1
+google-ai-generativelanguage==0.9.0
